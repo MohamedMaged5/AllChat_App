@@ -2,7 +2,7 @@
 “AllChat” is a group chat mobile application that makes all users chat with each others in group chat.
 
 
-https://github.com/MohamedMaged5/AllChat_App/assets/91010437/78593a84-aa17-4842-937e-6b28575eb57b
+https://github.com/MohamedMaged5/AllChat_App/assets/91010437/0e65a1dd-2825-4704-9bbd-e74caf1d577c
 
 
 # Installation
