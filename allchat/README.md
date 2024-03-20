@@ -1,16 +1,16 @@
-# robochat
+# "AllChat" Application with Flutter
+“AllChat” is a group chat mobile application that makes all users chat with each others in group chat.
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/MohamedMaged5/AllChat_App/assets/91010437/a7b025be-faf3-42c7-8c52-7c9b0936cc52
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Installation
+Click on this link https://github.com/MohamedMaged5/AllChat_App/blob/main/AllChat_Launcher.apk then you will find a three-dots icon in the top right click on it, press download and install the app on your mobile.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Development
+I developed it with Flutter by using:
+- Cubit as State Management.
+- Firebase Authentication.
+- Firebase Cloud Firestore.
+- Shared Preference to keep the user login.
